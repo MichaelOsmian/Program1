@@ -15,7 +15,7 @@
  *
  * @author Aleysha
  */
-public interface ScoreIteratorADT<E>{
+public interface ScoreIteratorADT<E> {
 	
 	/**
 	 * Returns the next Score in a Scorelist
